@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_types">
+        <item>All</item>
+        <item>Malay</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+        <item>Western</item>
+    </string-array>
+</resources>

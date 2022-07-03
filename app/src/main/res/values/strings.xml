@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="et_hint_email">Email</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="btn_lbl_submit">Submit</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="register"><u>Register Now</u></string>
+    <string name="forgot_password_description">Enter your registered email and we will send you a recover mail.</string>
+
+    <string name="create_an_acc">CREATE AN ACCOUNT</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+    <string name="btn_lbl_register">Register</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="login"><u>Login Now</u></string>
+
+    <string name="errFirstName"><u>Please enter first name</u></string>
+    <string name="errLastName"><u>Please enter last name</u></string>
+    <string name="errEmail"><u>Please enter email</u></string>
+    <string name="errPassword"><u>Please enter password</u></string>
+    <string name="errPasswordLength"><u>Password length must not be less than 6 characters</u></string>
+    <string name="errConfirmPasswordLength"><u>Confirmed length password must not be less than 6 characters</u></string>
+    <string name="errConfirmPassword"><u>Please enter confirmed password</u></string>
+    <string name="errPasswordMismatch"><u>Your password and confirmed password do not match</u></string>
+    <string name="registerSuccess"><u>User is registered successfully.</u></string>
+    <string name="forgot_password_empty">Please enter a registered email</string>
+
+    <string name="errIngredients"><u>Please enter ingredients</u></string>
+    <string name="errTitle"><u>Please enter title</u></string>
+    <string name="errDescription"><u>Please enter description</u></string>
+    <string name="errSteps"><u>Please enter steps</u></string>
+    <string name="permission_granted"><u>Permission Granted</u></string>
+    <string name="errType"><u>Please choose the recipe type</u></string>
+    <string name="errImage"><u>Upload a recipe photo</u></string>
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="logout">Logout is successful</string>
+    <string name="add_recipe">Add New Recipe</string>
+    <string name="hint_ingredients">Ingredients</string>
+    <string name="hint_steps">Steps</string>
+    <string name="hint_type">Recipe Type</string>
+    <string name="hint_recipe_title">Recipe Title</string>
+    <string name="hint_recipe_description">Description</string>
+    <string name="update_recipe">Update Recipe</string>
+    <string name="btn_lbl_update">Update</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_recipe_feed">Recipe Feed</string>
+    <string name="title_my_recipe">My Recipe</string>
+    <string name="errValidEmail">Please enter a valid email format</string>
+</resources>
